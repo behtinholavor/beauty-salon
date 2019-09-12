@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fafafa;
+    color: #333;
+}
+
+.page-default-1 {
+    max-width: 75%;
+    min-height: 400px;
+    margin: 5px auto 0;
+    padding: 2px;
+    border-radius: 2px;
+    border: 1px solid #ddd;    
+    background-color: rgb(240, 240, 240);    	
+    text-align: center;
+    color: hotpink;
+}
